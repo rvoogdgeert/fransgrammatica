@@ -95,13 +95,13 @@
         { id: 41, question: "vous êtes", answer: "jullie zijn" },
         { id: 42, question: "ils/elles sont", answer: "zij zijn" },
         // avoir
-        { id: 43, question: "je fais", answer: "ik doe/maak" },
-        { id: 44, question: "tu fais", answer: "jij doet/maakt" },
-        { id: 45, question: "il/elle fait", answer: "hij/zij doet/maakt" },
-        { id: 46, question: "on fait", answer: "wij doen/maken" },
-        { id: 47, question: "nous faisons", answer: "wij doen/maken" },
-        { id: 48, question: "vous faites", answer: "jullie doen/maken" },
-        { id: 49, question: "ils/elles font", answer: "zij doen/maken" },
+        { id: 43, question: "je fais", answer: "ik doe" },
+        { id: 44, question: "tu fais", answer: "jij doet" },
+        { id: 45, question: "il/elle fait", answer: "hij/zij doet" },
+        { id: 46, question: "on fait", answer: "wij doen" },
+        { id: 47, question: "nous faisons", answer: "wij doen" },
+        { id: 48, question: "vous faites", answer: "jullie doen" },
+        { id: 49, question: "ils/elles font", answer: "zij doen" },
     ];
 
     // Create a shuffled version of the flashcards
