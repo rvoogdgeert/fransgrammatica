@@ -68,7 +68,7 @@
         {
             id: 21,
             question: "ils/elles ont regardé",
-            answer: "izj hebben gekekken",
+            answer: "zij hebben gekekken",
         },
         // aller
         { id: 22, question: "je vais", answer: "ik ga" },
