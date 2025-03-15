@@ -174,7 +174,7 @@
 
 <main>
     <div class="container">
-        <h1>Flash Cards Frans</h1>
+        <h1>Frans grammatica</h1>
 
         <div class="score-container">
             <p>Points: {points} (Attempted: {attempted})</p>
