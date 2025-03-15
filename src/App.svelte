@@ -83,7 +83,7 @@
         { id: 30, question: "tu as", answer: "jij hebt" },
         { id: 31, question: "il/elle a", answer: "hij/zij heeft" },
         { id: 32, question: "on a", answer: "wij hebben" },
-        { id: 33, question: "nous avond", answer: "wij hebben" },
+        { id: 33, question: "nous avons", answer: "wij hebben" },
         { id: 34, question: "vous avez", answer: "jullie hebben" },
         { id: 35, question: "ils/elles ont", answer: "zij hebben" },
         // être
