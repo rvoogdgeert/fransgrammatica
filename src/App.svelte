@@ -51,7 +51,7 @@
         { id: 16, question: "tu as regardé", answer: "jij hebt gekeken" },
         {
             id: 17,
-            question: "il/els a regardé",
+            question: "il/elle a regardé",
             answer: "hij/zij heeft gekeken",
         },
         { id: 18, question: "on a regardé", answer: "wij hebben gekeken" },
@@ -68,7 +68,7 @@
         {
             id: 21,
             question: "ils/elles ont regardé",
-            answer: "zij hebben gekekken",
+            answer: "zij hebben gekeken",
         },
         // aller
         { id: 22, question: "je vais", answer: "ik ga" },
